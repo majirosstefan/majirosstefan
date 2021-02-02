@@ -3,6 +3,10 @@
 I help companies get their idea to market faster through rapid development of a mobile app MVPs / I build progressive mobile apps for companies.
 > Respect is a two way street.
 
+## Recruiters
+I am not sure, why it is neccessary to include some github link in work application, but here it is.
+Look at my repo, if you need it - but remember, companies also use Gitlab, Bitbucket (that I prefer for my projects) or Azure DevOps / or something from AWS.
+
 ## How I work
 Remotely & via contract.
 Using cross platform frameworks (React Native) and serverless.
