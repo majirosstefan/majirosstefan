@@ -26,7 +26,4 @@ software architecture (domain-driven design).
 
 ### Best way to reach me
 [Twitter](https://twitter.com/stefanmajiros)
-
 [Linkedin](https://www.linkedin.com/in/stefan-majiros/)
-
-If you are not recruiter looking for fulltime, on-site candidates, also: [Calendly](https://calendly.com/majirosstefan/)
