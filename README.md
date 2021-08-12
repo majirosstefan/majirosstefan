@@ -1,6 +1,7 @@
 ## 👋 About me
 
 ![Accepting new freelance work](https://img.shields.io/badge/Available%20to%20new%20projects-up%20to%206%20months-green?)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter)
 
 I help companies get their idea to market faster through rapid development of a mobile app MVPs / I build progressive mobile apps for companies.
 > Respect is a two way street.
