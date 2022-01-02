@@ -1,6 +1,5 @@
 ## 👋 About me
 
-![Accepting new freelance work](https://img.shields.io/badge/Available%20to%20new%20projects-up%20to%206%20months-green?)
 
 
 I help companies get their idea to market faster through rapid development of a mobile app MVPs / I build progressive mobile apps for companies.
