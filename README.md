@@ -22,6 +22,6 @@ Startups, small-companies, UX, AWS, serverless, crossplarform technology,
 software architecture (domain-driven design).
 
 ### Best way to reach me
-[Business inquiries](hello@stefan-majiros.com)
-[Twitter](https://twitter.com/stefanmajiros)
-[Linkedin](https://www.linkedin.com/in/stefan-majiros/)
+- [Business inquiries](hello@stefan-majiros.com)
+- [Twitter](https://twitter.com/stefanmajiros)
+- [Linkedin](https://www.linkedin.com/in/stefan-majiros/)
