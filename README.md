@@ -13,7 +13,7 @@ Using cross platform frameworks (React Native) and serverless.
 
 - Spent 3 years in Accenture, in multiple teams. Worked with server-side java, AWS (SNS mostly), ReactJS,  and React Native. Then I decided to specialize in RN. Experienced with setting CI for mobile, integrating 3rd party SDK into React Native, working with design files from Sketch / Figma.
 
-- From 2020, I am working as remote contractor through my own dev studio for clients that need mobile first marketplaces w/ technology like Stripe, Plaid, AWS Services + AWS Amplify, Firebase, React Native (+ little of React Native in web).
+- From 2020, I am working as remote contractor through my own dev studio for clients that need mobile first marketplaces w/ technology like Stripe, Plaid, AWS Services, AWS Amplify, Firebase, React Native (+ little of React Native in web).
 
 > Sectors: Worked with biometrics, CQRS systems, digital identity, retail, influencer marketing, social network MVPs
 
